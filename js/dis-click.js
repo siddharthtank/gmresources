@@ -1,0 +1,1 @@
+document.onkeydown=function(e){return!1},document.addEventListener("contextmenu",e=>e.preventDefault()),document.getElementsByTagName("body")[0].style.userSelect="none";
